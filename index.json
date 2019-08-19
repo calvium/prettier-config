@@ -1,17 +1,10 @@
 {
-    "printWidth": 120,
-    "singleQuote": true,
-    "bracketSpacing": false,
-    "trailingComma": "es5",
-    "jsxBracketSameLine": false,
-    "arrowParens": "avoid",
-    "proseWrap": "preserve",
-    "semi": true,
-    "overrides": [
-      {
-        "files": "*.js",
-        "options": {"parser": "flow"}
-      }
-    ]
-  }
-  
+  "printWidth": 120,
+  "singleQuote": true,
+  "bracketSpacing": false,
+  "trailingComma": "es5",
+  "jsxBracketSameLine": false,
+  "arrowParens": "avoid",
+  "proseWrap": "preserve",
+  "semi": true
+}
