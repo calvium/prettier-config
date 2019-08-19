@@ -1,0 +1,23 @@
+{
+  "name": "@calvium/prettier-config",
+  "version": "1.0.0",
+  "description": "Calvium's prettier configuration",
+  "main": "index.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/calvium/prettier-config.git"
+  },
+  "keywords": [
+    "prettier",
+    "calvium"
+  ],
+  "author": "Pablo Carrillo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/calvium/prettier-config/issues"
+  },
+  "homepage": "https://github.com/calvium/prettier-config#readme"
+}
