@@ -23,3 +23,9 @@ module.exports = {
   ...require("@calvium/prettier-config"),
 };
 ```
+
+Also you need to install prettier in your project
+
+```lang=bash
+npm i --save-dev prettier
+```
